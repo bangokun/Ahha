@@ -1,28 +1,28 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/JZcR7E5hOlE7dYbPiQhUtU']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6285738639969': { // put your number here
-    name: 'Owner Metro Bot/Creator games-wabot',
+    name: 'Owner Cornix Bot/Creator Crash-wabot',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281390658325': { // put your number here
+  '84585961987': { // put your number here
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6285738639969': { // put your number here
+  '14164451544': { // put your number here
     name: 'Cornix',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6285713964963': {
+  '6289637137656': {
     isReport: true // if true this number will send if user use command /report or /join
   },
-  '13479805233': {} // ignore if you don't want anything, like name dll
+  '6287789210430': {} // ignore if you don't want anything, like name dll
 }
 global.mods = ['6285738639969'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
